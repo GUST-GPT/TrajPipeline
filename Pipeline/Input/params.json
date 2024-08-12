@@ -1,5 +1,6 @@
 {
-    "mode": "summarization_testing",
+    "mode": "generation_testing",
     "city": "Jakarta, ID",
-    "input_path": "/speakingTrajectories/Pipeline/Input/uploadedTrajs_301_Summarize.json"
+    "trajectories_count": "2",
+    "trajectories_length": "10"
 }

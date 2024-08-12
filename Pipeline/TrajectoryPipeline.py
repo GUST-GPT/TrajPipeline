@@ -1,7 +1,7 @@
 import json
 from typing import List, Dict
-from Pipeline.Tokenization.tokenization import *
-from Pipeline.Detokenization.detokenization import *
+from TrajPipeline.Pipeline.Tokenization.tokenization import *
+from TrajPipeline.Pipeline.Detokenization.detokenization import *
 import os
 import subprocess
 import logging

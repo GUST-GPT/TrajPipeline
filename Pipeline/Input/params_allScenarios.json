@@ -1,0 +1,22 @@
+{
+    "Summarization Training ": {
+        "mode": "summarization_training",
+        "input_path": "/speakingTrajectories/Pipeline/Input/trajectories_sum_train.json",
+        "city": "jakarta"
+    },
+    "Summarization Testing": {
+        "mode": "summarization_testing",
+        "input_path": "/speakingTrajectories/Pipeline/Input/trajectories_sum_test.json",
+        "city": "jakarta"
+    },
+    "Generation Training": {
+        "mode": "generation_training",
+        "input_path": "/speakingTrajectories/Pipeline/Input/trajectories_gen_train.json",
+        "city": "jakarta"
+    },
+    "Generation Testing": {
+        "mode": "generation_testing",
+        "city": "jakarta",
+        "trajectories_count": "5"
+    }
+}

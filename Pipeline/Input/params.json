@@ -1,0 +1,5 @@
+{
+    "mode": "summarization_testing",
+    "city": "Jakarta, ID",
+    "input_path": "/speakingTrajectories/Pipeline/Input/uploadedTrajs_301_Summarize.json"
+}

@@ -1,0 +1,7 @@
+{
+    "mode": "summarization_training",
+    "id": 10,
+    "city": "New York, US",
+    "email": "husse408@umn.edu",
+    "input_path": "/speakingTrajectories/TrajPipeline/Pipeline/Input/TrajectoriesStore/summarization_training/10/data.json"
+}

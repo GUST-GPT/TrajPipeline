@@ -1,0 +1,4 @@
+/speakingTrajectories/TrajPipeline/Pipeline/Input/TrajectoriesStore/
+/speakingTrajectories/TrajPipeline/Pipeline/Detokenization/detokenizedTrajectories.json
+/speakingTrajectories/TrajPipeline/Pipeline/Detokenization/tokenizedTrajectories.txt
+/speakingTrajectories/TrajPipeline/Pipeline/Tokenization/tokenizedTrajectories.txt

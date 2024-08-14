@@ -1,0 +1,7 @@
+{
+    "mode": "classification_training",
+    "id": 8,
+    "city": "Jakarta, ID",
+    "email": "husse408@umn.edu",
+    "input_path": "/speakingTrajectories/TrajPipeline/Pipeline/Input/TrajectoriesStore/classification_training/8/data.json"
+}

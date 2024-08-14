@@ -1,0 +1,7 @@
+{
+    "mode": "imputation_training",
+    "id": 9,
+    "city": "New York, US",
+    "email": "husse408@umn.edu",
+    "input_path": "/speakingTrajectories/TrajPipeline/Pipeline/Input/TrajectoriesStore/imputation_training/9/data.json"
+}
